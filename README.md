@@ -73,7 +73,7 @@ http://www.casos.cs.cmu.edu/publications/papers/CMU-ISR-17-113.pdf
 
 BibTeX entry to be used in publication:
 
-@article{villarraga_agent-based_2017, address={Pittsburgh, PA}, type={Technical {Report}},
+@techreport{villarraga_agent-based_2017, address={Pittsburgh, PA}, type={Technical {Report}},
 title={Agent-based {Modeling} and {Simulation} for an {Order}-{To}-{Cash} {Process} using {NetLogo}}, number={CMU-ISR-17-113}, institution={Carnegie Mellon University, School of Computer Science, Institute for Software Research}
 author={Villarraga, John and Carley, Kathleen M and Wassick, John and Sahinidis, Nikolaos},
 year={2017}
